@@ -1,0 +1,6 @@
+mysql:
+  use-mysql: true
+  host: localhost
+  auth-data:
+    password: 123456
+auto-login-delay: 300

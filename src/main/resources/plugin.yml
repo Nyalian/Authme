@@ -5,3 +5,11 @@ api-version: 1.18
 authors: [ nyalian ]
 description: Authme for login
 website: nyalian.online
+commands:
+  login:
+    aliases:
+      - "lg"
+      - "l"
+      - "L"
+    description: "Login or register"
+    usage: "/login <PASSWORD>"

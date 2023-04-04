@@ -1,0 +1,7 @@
+name: Authme
+version: '${project.version}'
+main: online.nyalian.authme.Authme
+api-version: 1.18
+authors: [ nyalian ]
+description: Authme for login
+website: nyalian.online
